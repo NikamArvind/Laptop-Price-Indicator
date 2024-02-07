@@ -1,15 +1,32 @@
 # Laptop-Price-Indicator
-• Web-based application that predicts the price of the laptop according to the configuration input by user.  • The project includes eight major stages of the ML life cycle to result in structured, practical business value.
+Exciting Project Update!
+I'm thrilled to share the journey of my latest project: Laptop Price Prediction!
 
-# Business Problem
-Predict the Price of laptop on the basis of
+Project Overview:
+Data Cleaning:
+Eliminating noise by removing NA and missing values for a clean dataset.
+Data Analysis:
+Unveiling insights by exploring and visualizing the laptop specifications.
+Feature Engineering:
+Transforming raw data into valuable insights, focusing on key features like screen resolution, CPU, memory, and GPU.
+Modelling:
+Employing various algorithms (Linear Regression, Ridge Regression, Lasso Regression, KNN, Random Forest, Decision Tree) to find the best predictor.
+Website Building: Turning predictions into reality by creating an interactive website for accurate laptop price forecasts.
 
-Context A dataset for 1300 laptop models. Content, Company Name, Product Name, Laptop Type, Screen Inches, Screen Resolution, CPU Model, RAM Characteristics, Memory, GPU Characteristics, Operating System, Laptop's Weight, Laptop's Price
+Project Approach:
+Data Set: Comprehensive laptop specifications dataset.
+Cleaning: Tackled NA and missing values head-on for robust analysis.
+Analysis: Unearthed patterns and trends to inform feature engineering.
+Engineering: Transformed essential columns into informative features.
+Modelling: Explored algorithms for optimal prediction accuracy.
+Website: Built an intuitive website using the Random Forest model for precise laptop price predictions.
 
-Machine Leaning Problem It is a Regresion problem, for a given columns we need to predict the price of laptop.
+Achievements:
+Successful application of machine learning algorithms.
+Optimal prediction accuracy achieved with Random Forest.
+User-friendly website for seamless laptop price forecasts.
+Results:
+The journey from raw data to a sophisticated model has been incredible! Random Forest emerged as the star performer, paving the way for accurate laptop price predictions. The website is live now, providing users with the best-in-class forecasting experience.
 
-Performance Metric
 
-R2 Score
-
-Mean Absolute Error
+#TechInnovation #PredictiveModeling #DataDrivenInsights #AIandML #TechProjects #DataScienceJourney #MachineLearningCommunity #InnovationInTech #DigitalTransformation #TechProjects #CodeLife #DataAnalytics #AIProjects #WebDevelopment #TechCommunity #STEM #DataAnalysis #CodeToInnovate #TechForGood #ExploreData #AlgorithmMagic #FutureTech #LearnToCode #BuildSomething #DataDrivenDecisions #TechTrends #SmartTech
